@@ -2,6 +2,8 @@ This file is another to add, commit, push -u origin master
 to the https://github.com/smilofactor/another_github_practice repository
 
 first command will be:
+git init in another_github_practice directory
+next:
 git add
 next:
 git commit -m "Adding file: another_file_to_push"
