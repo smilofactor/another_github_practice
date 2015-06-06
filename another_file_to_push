@@ -1,0 +1,13 @@
+This file is another to add, commit, push -u origin master
+to the https://github.com/smilofactor/another_github_practice repository
+
+first command will be:
+git add
+next:
+git commit -m "Adding file: another_file_to_push"
+next:
+git push -u origin master
+
+
+already ran:
+git remote add origin https://github.com/smilofactor/another_github_practice.git
